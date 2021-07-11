@@ -1,0 +1,2 @@
+rootProject.name = "MadLab04"
+include ':app'
